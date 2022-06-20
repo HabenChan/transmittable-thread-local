@@ -100,7 +100,7 @@
 
 		<kotlin.version>1.7.0</kotlin.version>
 		<kotlin.compiler.jvmTarget>${maven.compiler.source}</kotlin.compiler.jvmTarget>
-		<kotlin.coroutine.version>1.6.2</kotlin.coroutine.version>
+		<kotlin.coroutine.version>1.6.3</kotlin.coroutine.version>
 
 		<!-- testing dependencies versions -->
 		<junit5.version>5.8.2</junit5.version>
